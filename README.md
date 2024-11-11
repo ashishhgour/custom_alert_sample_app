@@ -31,8 +31,8 @@ Ensure you have the following tools installed:
 
 
 ## Screenshots
-![Screenshot_1731313064](https://github.com/user-attachments/assets/92b363e8-1a49-4495-af2b-4bd69bd7c01e)
-![Screenshot_1731313067](https://github.com/user-attachments/assets/ceb9328f-1389-4ec8-b19d-04b2b875f2e6)![Screenshot_1731313073](https://github.com/user-attachments/assets/ccc609b7-22a4-4db2-9d10-4326406313ff)
+
+![screenshots](https://github.com/user-attachments/assets/9fa70cef-a4a5-47e4-b9c0-193f71cbb6d5)
 
 
 
