@@ -28,4 +28,11 @@ Ensure you have the following tools installed:
 
 - Remove Item: When you click on the "Remove from Cart" button, a custom confirmation dialog will appear asking if you want to remove the item from the cart.
 - Action Feedback: After clicking "Remove", the action feedback will appear briefly on the screen.
-  
+
+
+## Screenshots
+![Screenshot_1731313064](https://github.com/user-attachments/assets/92b363e8-1a49-4495-af2b-4bd69bd7c01e)
+![Screenshot_1731313067](https://github.com/user-attachments/assets/ceb9328f-1389-4ec8-b19d-04b2b875f2e6)![Screenshot_1731313073](https://github.com/user-attachments/assets/ccc609b7-22a4-4db2-9d10-4326406313ff)
+
+
+
